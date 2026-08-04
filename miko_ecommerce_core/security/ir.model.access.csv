@@ -1,0 +1,11 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_channel_user,channel user,model_miko_ecommerce_channel,sales_team.group_sale_salesman,1,0,0,0
+access_channel_manager,channel manager,model_miko_ecommerce_channel,sales_team.group_sale_manager,1,1,1,1
+access_mapping_user,mapping user,model_miko_ecommerce_mapping,sales_team.group_sale_salesman,1,0,0,0
+access_mapping_manager,mapping manager,model_miko_ecommerce_mapping,sales_team.group_sale_manager,1,1,1,1
+access_job_user,job user,model_miko_ecommerce_job,sales_team.group_sale_salesman,1,0,0,0
+access_job_manager,job manager,model_miko_ecommerce_job,sales_team.group_sale_manager,1,1,1,1
+access_miko_ecommerce_field_map_user,miko.ecommerce.field.map user,model_miko_ecommerce_field_map,sales_team.group_sale_salesman,1,0,0,0
+access_miko_ecommerce_field_map_manager,miko.ecommerce.field.map manager,model_miko_ecommerce_field_map,sales_team.group_sale_manager,1,1,1,1
+access_miko_ecommerce_tax_user,miko.ecommerce.tax user,model_miko_ecommerce_tax,sales_team.group_sale_salesman,1,0,0,0
+access_miko_ecommerce_tax_manager,miko.ecommerce.tax manager,model_miko_ecommerce_tax,sales_team.group_sale_manager,1,1,1,1
