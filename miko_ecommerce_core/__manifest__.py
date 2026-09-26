@@ -12,7 +12,7 @@ Install a platform connector alongside it. On its own this does nothing visible,
 which is deliberate: it is the engine, not the car.
 """,
     'author': 'Tripster Developers',
-    'website': 'https://tripsterdevelopers.com/odoo/',
+    'website': 'https://miko.co.nz/odoo/ecommerce-core',
     'category': 'eCommerce',
     'license': 'LGPL-3',
     'depends': ['sale_management', 'stock'],
