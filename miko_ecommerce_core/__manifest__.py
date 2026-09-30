@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'E-Commerce Connector Engine (Miko)',
-    'version': '16.0.1.0.0',
-    'summary': 'Sync engine for Odoo e-commerce connectors: identity mapping so a re-run never duplicates an order, plus a retryable job queue',
+    'version': '16.0.1.0.1',
+    'summary': 'Free ecommerce connector engine for Odoo: identity mapping so an order sync re-run never duplicates an order, plus a retryable job queue',
     'description': """
 The plumbing every store connector needs and nobody wants to write twice:
 identity mapping so a re-run never duplicates an order, a job queue that keeps
